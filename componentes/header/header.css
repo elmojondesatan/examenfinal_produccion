@@ -1,0 +1,22 @@
+.header_menu{
+    border: 1px solid black;
+    width: 50rem;
+    height: 5rem;
+    margin:4rem auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.header_menu .titulo1{
+    margin-top: 2.5rem;
+    margin-left: 1rem;
+    text-align: left;
+}
+
+.header_menu .titulo2{
+    margin-top: 2.5rem;
+    margin-right: 1rem;
+    text-align: right;
+}

@@ -1,0 +1,13 @@
+.bloques{
+    border: 1px solid black;
+    width: 100%;
+    max-width: 50rem;
+    height: 50rem;
+    padding: 1rem;
+    margin: -4rem auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
